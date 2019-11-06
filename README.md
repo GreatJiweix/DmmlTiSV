@@ -9,10 +9,15 @@ Dependencies
 -------
 
 Python 3.6
+
 Pytorch 0.2.0
+
 librosa
+
 numpy
+
 soundfile
+
 scipy
 
 Download Dataset
