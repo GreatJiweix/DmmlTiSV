@@ -25,9 +25,18 @@ Download Dataset
 
 These two data sets can be downloaded directly from the official website.
 
-[Voxceleb](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2019.html)  
+[Voxceleb 1 and Voxceleb 2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2019.html)  
 
 
 
 Preprocess data
+
+We will first convert the .m4a file to .wav format.
+
+sh convert.sh
+
+Then we extract the features of the speech signal, save it in npy format, or directly end-to-end training.
+
+python convert_wav_to_npy.py
+
 
