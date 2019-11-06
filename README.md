@@ -45,35 +45,29 @@ python convert_wav_to_npy.py
 
 Train model
 
-***********************************
+
 Training through npy files
 ```
 python train_npy.py
 ```
-***********************************
 
-***********************************
 Training through wav files
 ```
 python train_wav.py
 ```
-***********************************
 
 Test model
 
-***********************************
 Test through npy files
 ```
 python test_npy.py
 ```
-***********************************
 
-***********************************
 Test through wav files
 ```
 python test_wav.py
 ```
-***********************************
+
 
 
 
