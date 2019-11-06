@@ -1,4 +1,5 @@
 Deep multi-metric learning for text-independent speaker verification
+==== 
 
 By Jiwei Xu, Xinggang Wang, Bin Feng, Wenyu Liu.
 
