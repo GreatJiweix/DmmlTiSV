@@ -33,10 +33,18 @@ Preprocess data
 
 We will first convert the .m4a file to .wav format.
 
+···
 sh convert.sh
+···
 
 Then we extract the features of the speech signal, save it in npy format, or directly end-to-end training.
 
+···
 python convert_wav_to_npy.py
+···
+
+
+
+
 
 
