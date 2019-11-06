@@ -37,7 +37,7 @@ We will first convert the .m4a file to .wav format.
 sh convert.sh
 ```
 
-Then we extract the features of the speech signal, save it in npy format, or directly end-to-end training.
+Then we extract the features of the speech signal, save it in npy format.
 
 ```
 python convert_wav_to_npy.py
@@ -51,21 +51,12 @@ Training through npy files
 python train_npy.py
 ```
 
-Training through wav files
-```
-python train_wav.py
-```
 
 Test model
 
 Test through npy files
 ```
 python test_npy.py
-```
-
-Test through wav files
-```
-python test_wav.py
 ```
 
 
