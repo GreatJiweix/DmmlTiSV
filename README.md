@@ -10,7 +10,7 @@ Dependencies
 
 Python 3.6
 
-Pytorch 0.2.0
+Pytorch 1.2.0
 
 librosa
 
@@ -25,4 +25,9 @@ Download Dataset
 
 These two data sets can be downloaded directly from the official website.
 
-http://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2019.html
+[Voxceleb](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/interspeech2019.html)  
+
+
+
+Preprocess data
+
