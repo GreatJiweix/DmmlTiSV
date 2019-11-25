@@ -5,7 +5,9 @@ By Jiwei Xu, Xinggang Wang, Bin Feng, Wenyu Liu.
 
 This code is a implementation of the experiments on Voxceleb 1 and Voxceleb 2
 
-Our method achieved an EER of 3.48. Our model**3.48**
+Our method achieved an EER of 3.48. [**model-3.48**](http://blog.csdn.net/guodongxiaren)
+
+We randomly add some noise signals to the training data during the training process as our data enhancement method. [**noise**](http://www.openslr.org/28/)
 
 
 
