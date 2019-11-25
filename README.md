@@ -34,11 +34,6 @@ First convert the .m4a file to a .wav file
 sh convert.sh
 ```
 
-Then extract features from the speech signal and save them as files in .npy format
-
-```
-python convert_vav_to_npy.py
-```
 
 Train model
 ------- 
