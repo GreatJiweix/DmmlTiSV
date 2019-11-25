@@ -57,5 +57,3 @@ python test.py
 Thanks to the Third Party Libs
 ====
 [metric_learning](https://github.com/tomp11/metric_learning)
-
-
