@@ -5,6 +5,13 @@ By Jiwei Xu, Xinggang Wang, Bin Feng, Wenyu Liu.
 
 This code is a implementation of the experiments on Voxceleb 1 and Voxceleb 2
 
+
+We implemented an EER of 3.48 on our vox dataset, our model [link](http://blog.csdn.net/guodongxiaren)
+
+We add some noise signals to the speech signal during the training process as a data  method. [Noise](http://www.openslr.org/28/)
+
+
+
 Dependencies
 ====  
 
