@@ -1,1 +1,1 @@
-
+from losses import TripletLoss, NpairLoss, AngularLoss
