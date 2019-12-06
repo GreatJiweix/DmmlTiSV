@@ -39,6 +39,7 @@ Preprocess data
 First convert the .m4a file to a .wav file
 
 ```
+cd convert_data
 sh convert.sh
 ```
 
